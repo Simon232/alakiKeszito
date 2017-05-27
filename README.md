@@ -1,1 +1,1 @@
-# Alaki felhíváshoz segítség
+# Alaki felhivashoz segitseg
