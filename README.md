@@ -1,1 +1,1 @@
-# alakiKeszito
+# Alaki felhíváshoz segítség
